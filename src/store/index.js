@@ -8,6 +8,7 @@ const store= configureStore({
         cart: CartReducer
 
     }
+    
 })
 
 export default store

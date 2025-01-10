@@ -14,8 +14,8 @@ const DUMMY_DATA = [
     {
         id:'p3',
         price:30,
-        title:'love and lie',
-        description:"Original Truth"
+        title:'Dummy Book',
+        description:"Bad bunny"
     },
 
 ]
